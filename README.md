@@ -3,9 +3,14 @@
 ## Course Project
 This is a solution to the course project in the course Getting and Cleaning Data from awesome Johns Hopkins University. (Thank you JHU)
 
+## Data
+
+* You can get the data from you can obtain it from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+* You can get a description of the data set from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
 ## How to use run_analysis.R
 
-1. Make sure that you get the right data, you can obtain it from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+1. Make sure that you get the right data (you can obtain it from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).
 
 2. Unzip the data and make sure to set the working directory in run_analysis.R to the parent directory of where
 you unzipped the data.
