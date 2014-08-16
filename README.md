@@ -28,4 +28,4 @@ you unzipped the data.
 In the end the result from step 5 is saved to disk in form of a file namned 'newTidyDataSet.txt'
 
 ## Data Transformations
-Read the CodeBook.md file for further information.
+Read the codebook.md file for further information.
