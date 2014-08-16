@@ -5,7 +5,7 @@ This is a solution to the course project in the course Getting and Cleaning Data
 
 ## Data
 
-* You can get the data from you can obtain it from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+* You can get the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 * You can get a description of the data set from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 ## How to use run_analysis.R
